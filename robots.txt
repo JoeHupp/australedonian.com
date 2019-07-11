@@ -1,6 +1,3 @@
-
-
-
 User-agent: *
 Disallow: /cache/
 Disallow: /_backup/
